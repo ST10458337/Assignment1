@@ -1,3 +1,4 @@
+![Wallpaper-White-Computer-Monitor-Earth-And-Penguin-Clip55](https://github.com/ST10458337/Assignment1/assets/113131445/209fa34a-b98e-44cc-8477-7c826bca6248)
 package com.example.assignment1
 
 import androidx.appcompat.app.AppCompatActivity
